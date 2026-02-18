@@ -1,0 +1,15 @@
+Package: com.thanhtvsys.phcrane
+Version: 2.16.3.1
+Architecture: iphoneos-arm
+Maintainer: Thanh Tran
+Installed-Size: 336
+Filename: deb/com.thanhtvsys.phcrane_2.16.3.1_iphoneos-arm.deb
+Size: 9712
+MD5sum: fcc630ad8803cea6bdcc2b196dd87df3
+SHA1: c9828f6ac2bb6743cecba629967c8517c127352f
+SHA256: 9bac1cce2785af5bd79ef3c8310080eb3c24df1bc469a035a8f6c229072b7fec
+Section: Utilities
+Description: Quan ly Container chuyen nghiep
+Author: Thanh Tran
+Name: PHCRANE
+
